@@ -85,6 +85,53 @@ This following image shows the distribution of the cluster:
 
 ![cluster distribution](https://user-images.githubusercontent.com/60825743/137194476-2f2b9c7a-8abb-4825-85a7-b0dd25586fa4.png)
 
+## Profiling The Cluster
+I made the following plots for profiling:
 
-.....Under Development
+### Plot based on Income
 
+![image](https://user-images.githubusercontent.com/60825743/137197924-a5b828e1-43f1-4887-b7c4-403e432ad3ec.png)
+
+### Plot based on Total Spent
+
+![image](https://user-images.githubusercontent.com/60825743/137198453-fd8f40f6-15f8-44f9-ab7a-01639a9e0c3e.png)
+
+### Plot based on Marital Status
+
+![image](https://user-images.githubusercontent.com/60825743/137198622-da43e4d9-4603-429c-a862-7a48afaa6415.png)
+
+### Plot based on Family Size
+
+![image](https://user-images.githubusercontent.com/60825743/137198638-88abfc20-799b-4d38-ad6a-84719fd080d6.png)
+
+### Plot based on Parenthood
+
+![image](https://user-images.githubusercontent.com/60825743/137198651-e7372506-6d97-4eca-928c-6a57533149c8.png)
+
+### Plot based on Education
+
+![image](https://user-images.githubusercontent.com/60825743/137198665-4e182973-cb9d-4d42-a367-12b177484cca.png)
+
+### Plot based on Age
+
+![image](https://user-images.githubusercontent.com/60825743/137198704-bc01388e-d2d0-483a-b673-c4c05a7f2fc2.png)
+
+## Conclusion
+
+1. Cluster 0:
+* majority between age 40 - 55 relatively younger
+* most of them graduated
+* majority not a parent and don't have kids
+* majority spend over 1500 USD with income between 60k - 100k
+
+2. Cluster 1:
+* majority on their 50's relatively older
+* most of them graduated
+* majority a parent with family size of 3
+* majority spend over 500 to 1000 with income between 45k - 55k
+
+3. Cluster 2:
+* they are the youngest, with average age between early 30's - late 40's
+* most of them graduated
+* majority a parent with maximum family size of 4
+* have the lowest spending, in just below 500 with income below 50k
