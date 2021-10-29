@@ -1,6 +1,6 @@
-# Data Science Customer Classification: Overview
-* Explored the data to classify the costumer's background and help the business to understand more about the customer
-* Engineered some features for classification
+# Data Science Customer Clustering: Overview
+* Uaed unsupervised machine learning to create cluster
+* Engineered some features and data preparation
 * Customer segmentation based on their background
 
 ## Tools and Resourced used
