@@ -1,5 +1,5 @@
 # Data Science Customer Clustering: Overview
-* Uaed unsupervised machine learning to create cluster
+* Used unsupervised machine learning to create cluster
 * Engineered some features and data preparation
 * Customer segmentation based on their background
 
