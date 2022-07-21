@@ -3,7 +3,7 @@
 * Engineered some features and data preparation
 * Customer segmentation based on their background
 
-## Tools and Resourced used
+## Tools and Resources used
 * **Python**: Version 3.7
 * **Notebook**: Google Colab
 * **Libraries**: pandas, numpy, matplotlib, seaborn, sklearn
